@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Day 1",
+      "dateTime": "December 21,2023 12:57:47 PM",
+      "body": "Started learning react js basics"
+    },
+    {
+      "id": 2,
+      "title": "Day 2",
+      "dateTime": "December 21,2023 12:58:36 PM",
+      "body": "Learn about components in react"
+    },
+    {
+      "id": 3,
+      "title": "Day 3",
+      "dateTime": "December 21,2023 12:59:21 PM",
+      "body": "Functional components and Class components"
+    },
+    {
+      "id": 4,
+      "title": "Day  10",
+      "dateTime": "December 21,2023 12:59:51 PM",
+      "body": "Learn about routing"
+    }
+  ]
+}
